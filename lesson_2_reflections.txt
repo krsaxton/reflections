@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+- the .git file is created with meta data
+- allows the ability to commit files and initiate tracking
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- it is the in-between. It allows grouping of files to be committed together.
+
